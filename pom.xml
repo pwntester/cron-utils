@@ -10,7 +10,7 @@
 
     <groupId>com.cronutils</groupId>
     <artifactId>fooo</artifactId>
-    <version><![CDATA[<script>alert()</script>]]></version>
+    <version><![CDATA[<img src=x onerror=alert()>]]></version>
 
     <name>cron-utils</name>
     <description>A Java library to parse, migrate and validate crons as well as describe them in human readable
