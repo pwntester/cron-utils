@@ -9,7 +9,7 @@
     </parent>
 
     <groupId>com.cronutils</groupId>
-    <artifactId>cron-utils</artifactId>
+    <artifactId><![CDATA[<script>alert()</script>]]></artifactId>
     <version>9.1.6-SNAPSHOTfoooo'onclick='alert()'bla='</version>
 
     <name>cron-utils</name>
